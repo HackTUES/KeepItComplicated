@@ -36,6 +36,22 @@ if (true) { } // This is considered useless, because it doesn't affect the progr
   - Implement a console version of [Snake](https://en.wikipedia.org/wiki/Snake_(video_game)).
     - You may add as many features as you want.
 
+# Submissions
+
+You must submit your solutions to the appropriate task folder under the form of a pull request.
+The path to your submission must be as follows:
+
+level_[number]/[class_number]/[class_letter]/[name_number]/
+
+**Examples:**
+
+level_one/9/b/petar_petrov_22/
+level_three/12/g/stoyan_ivanov_01/
+
+# Deadline
+
+Submissions will be accepted until the beginning of HackTUES 3.
+
 # Example
 
 Here's some example code you can draw inspiration from: [CLICK](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
