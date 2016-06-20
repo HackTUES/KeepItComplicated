@@ -45,7 +45,7 @@ level_[number]/[class_number]/[class_letter]/[name_number]/
 
 **Examples:**
 
-level_one/9/b/petar_petrov_22/
+level_one/09/b/petar_petrov_22/
 level_three/12/g/stoyan_ivanov_01/
 
 # Deadline
